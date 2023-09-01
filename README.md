@@ -1,1 +1,1 @@
-# CodeClauseInternship_Basic_Text_Editor
+this is my Baisc text editor project of  Code Clause
